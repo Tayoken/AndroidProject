@@ -87,13 +87,6 @@ public class MainActivity extends AppCompatActivity {
                         Toast.makeText(MainActivity.this,"找不到文件",Toast.LENGTH_SHORT).show();
                     }
 
-                    //调用查找方法
-//                    try {
-//                        result = search(str, shiJu);
-//                        textView.setText(result.toString());
-//                    }catch(Exception e){
-//                        Toast.makeText(MainActivity.this,"UNKNOW ERROR",Toast.LENGTH_SHORT).show();
-//                    }
                 }
             }
         });
