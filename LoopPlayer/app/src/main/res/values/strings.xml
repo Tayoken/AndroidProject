@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoopPlayer</string>
+    <string name="button_1">选择文件</string>
+    <string name="button_2">开始播放</string>
+</resources>
